@@ -1,0 +1,57 @@
+
+.section{
+	padding: 30px 0px;
+	margin-bottom: 60px;
+
+
+}
+
+.header {
+	
+	font-size: 20px
+	line-height:1.5;
+	margin-bottom: 60px;
+
+}
+.header span {
+	display:block;
+}
+
+input {
+	display:block;
+	margin-top: 10px;
+
+}
+.form-header {
+font-size: 20px;
+font-weight: 900px;
+
+
+}
+.form-btn {
+
+	margin-top: 10px;
+
+}
+.form{
+	padding: 35px 20px;
+	border:solid 5px;
+	color: #2c6ee6;
+}
+
+.section-header{
+	font-size: 20px;
+font-weight: 900px;
+margin-bottom: 20px;
+margin-top: 130px;
+}
+.feature{
+	margin-top: 60px;
+}
+.feature p{
+	margin-top: 20px;
+}
+
+.twoscreen-btn{
+	margin-top: 40px;
+}
